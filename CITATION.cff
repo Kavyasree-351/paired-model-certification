@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this implementation or its experiment outputs, cite this software repository and the original methods credited in its research notes."
+title: "Paired Model Certification: Reproducible Feasibility Study"
+type: software
+authors:
+  - name: "Kavyasree-351"
+repository-code: "https://github.com/Kavyasree-351/paired-model-certification"
+abstract: "CPU research prototype for paired classifier replacement and selective label-acquisition experiments, including verified negative findings. Methodological novelty is not established."

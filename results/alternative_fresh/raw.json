@@ -1,0 +1,1082 @@
+[
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "ternary_universal",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.021748000057414174
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "mixture_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.012750900001265109
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "predictable_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.003354600048623979
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00018540001474320889
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 4.429998807609081e-05
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "split_cp",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.011100900010205805
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "harm_only",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.004011599929071963
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00026560004334896803
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "tune_likelihood",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.018125100061297417
+  },
+  {
+    "dataset": "digits",
+    "seed": 101,
+    "method": "tune_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9777777777777777,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.005892599932849407
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "ternary_universal",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.024179200059734285
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "mixture_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.009778000065125525
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "predictable_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.001626199926249683
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "empirical_bernstein",
+    "selected_index": 0,
+    "route_fraction": 0.06111111111111111,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0002133999951183796
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 2.519995905458927e-05
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "split_cp",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.005850200075656176
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "harm_only",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.002466500038281083
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.0005167999770492315
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "tune_likelihood",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.027766000013798475
+  },
+  {
+    "dataset": "digits",
+    "seed": 202,
+    "method": "tune_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9555555555555556,
+    "excess_error": 0.011111111111111112,
+    "certificate_seconds": 0.006084599997848272
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "ternary_universal",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.02204760001040995
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "mixture_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.01138459995854646
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "predictable_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.0018229000270366669
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00010609999299049377
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 2.5300076231360435e-05
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "split_cp",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.00558549992274493
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "harm_only",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.002804500050842762
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.00021740002557635307
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "tune_likelihood",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.01911580003798008
+  },
+  {
+    "dataset": "digits",
+    "seed": 303,
+    "method": "tune_betting",
+    "selected_index": 11,
+    "route_fraction": 0.9833333333333333,
+    "excess_error": 0.005555555555555556,
+    "certificate_seconds": 0.004664300009608269
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "ternary_universal",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.03647480008658022
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "mixture_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0007116000633686781
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "predictable_betting",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0017405999824404716
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00018640002235770226
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 4.20999713242054e-05
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "split_cp",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.005467100068926811
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "harm_only",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.004490500083193183
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00024590000975877047
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "tune_likelihood",
+    "selected_index": 0,
+    "route_fraction": 0.2631578947368421,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0062806999776512384
+  },
+  {
+    "dataset": "cancer",
+    "seed": 101,
+    "method": "tune_betting",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00446710002142936
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "ternary_universal",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.017543859649122806,
+    "certificate_seconds": 0.038415799965150654
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "mixture_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0007658000104129314
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "predictable_betting",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.017543859649122806,
+    "certificate_seconds": 0.0019582000095397234
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00014570006169378757
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 3.929995000362396e-05
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "split_cp",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.017543859649122806,
+    "certificate_seconds": 0.005377999972552061
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "harm_only",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.017543859649122806,
+    "certificate_seconds": 0.00455139996483922
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.017543859649122806,
+    "certificate_seconds": 0.0001976999919861555
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "tune_likelihood",
+    "selected_index": 1,
+    "route_fraction": 0.5614035087719298,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.009805900044739246
+  },
+  {
+    "dataset": "cancer",
+    "seed": 202,
+    "method": "tune_betting",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.017543859649122806,
+    "certificate_seconds": 0.0034014000557363033
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "ternary_universal",
+    "selected_index": 9,
+    "route_fraction": 0.9649122807017544,
+    "excess_error": -0.017543859649122806,
+    "certificate_seconds": 0.03811710001900792
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "mixture_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.001335300039499998
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "predictable_betting",
+    "selected_index": 9,
+    "route_fraction": 0.9649122807017544,
+    "excess_error": -0.017543859649122806,
+    "certificate_seconds": 0.002619100036099553
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00015869992785155773
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 3.879994619637728e-05
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "split_cp",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0044395000440999866
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "harm_only",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0028850999660789967
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00012749992311000824
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "tune_likelihood",
+    "selected_index": 9,
+    "route_fraction": 0.9649122807017544,
+    "excess_error": -0.017543859649122806,
+    "certificate_seconds": 0.03932020009960979
+  },
+  {
+    "dataset": "cancer",
+    "seed": 303,
+    "method": "tune_betting",
+    "selected_index": 9,
+    "route_fraction": 0.9649122807017544,
+    "excess_error": -0.017543859649122806,
+    "certificate_seconds": 0.0032331000547856092
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "ternary_universal",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0042860000394284725
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "mixture_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0007502000080421567
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "predictable_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.000215600011870265
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00011369993444532156
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 2.789997961372137e-05
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "split_cp",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00043540005572140217
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "harm_only",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0003706999123096466
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.000404300051741302
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "tune_likelihood",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0023490999592468143
+  },
+  {
+    "dataset": "wine",
+    "seed": 101,
+    "method": "tune_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00027279998175799847
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "ternary_universal",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0062342999735847116
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "mixture_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.001038299989886582
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "predictable_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00030690000858157873
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00016309996135532856
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 3.860006108880043e-05
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "split_cp",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0007046000100672245
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "harm_only",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0005073000211268663
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 1.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0003915999550372362
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "tune_likelihood",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.005560099962167442
+  },
+  {
+    "dataset": "wine",
+    "seed": 202,
+    "method": "tune_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0005313999718055129
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "ternary_universal",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.003497699974104762
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "mixture_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0006690999725833535
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "predictable_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00019970000721514225
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "empirical_bernstein",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00010429997928440571
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 2.3699947632849216e-05
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "split_cp",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0004089000867679715
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "harm_only",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00030620000325143337
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "naive",
+    "selected_index": 11,
+    "route_fraction": 0.9444444444444444,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.0002867000875994563
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "tune_likelihood",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.002939400030300021
+  },
+  {
+    "dataset": "wine",
+    "seed": 303,
+    "method": "tune_betting",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 0.00033650000113993883
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "ternary_universal",
+    "selected_index": 6,
+    "route_fraction": 0.8166666666666667,
+    "excess_error": 0.025,
+    "certificate_seconds": 0.02593090001028031
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "mixture_betting",
+    "selected_index": 7,
+    "route_fraction": 0.86,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.043512700009159744
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "predictable_betting",
+    "selected_index": 3,
+    "route_fraction": 0.6425,
+    "excess_error": 0.0075,
+    "certificate_seconds": 0.003390299971215427
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "empirical_bernstein",
+    "selected_index": 6,
+    "route_fraction": 0.8166666666666667,
+    "excess_error": 0.025,
+    "certificate_seconds": 0.0006373999640345573
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 2.7999980375170708e-05
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "split_cp",
+    "selected_index": 7,
+    "route_fraction": 0.86,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.005829400033690035
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "harm_only",
+    "selected_index": 7,
+    "route_fraction": 0.86,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.004648100002668798
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "naive",
+    "selected_index": 8,
+    "route_fraction": 0.8925,
+    "excess_error": 0.04083333333333333,
+    "certificate_seconds": 0.000938400044105947
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "tune_likelihood",
+    "selected_index": 7,
+    "route_fraction": 0.86,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.030628900043666363
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 101,
+    "method": "tune_betting",
+    "selected_index": 7,
+    "route_fraction": 0.86,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.018469300004653633
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "ternary_universal",
+    "selected_index": 6,
+    "route_fraction": 0.8125,
+    "excess_error": 0.024166666666666666,
+    "certificate_seconds": 0.03173300006892532
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "mixture_betting",
+    "selected_index": 7,
+    "route_fraction": 0.8575,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.048375000013038516
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "predictable_betting",
+    "selected_index": 3,
+    "route_fraction": 0.6383333333333333,
+    "excess_error": 0.010833333333333334,
+    "certificate_seconds": 0.0015291000017896295
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "empirical_bernstein",
+    "selected_index": 6,
+    "route_fraction": 0.8125,
+    "excess_error": 0.024166666666666666,
+    "certificate_seconds": 0.0013212000485509634
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 6.079999729990959e-05
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "split_cp",
+    "selected_index": 7,
+    "route_fraction": 0.8575,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.005193099961616099
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "harm_only",
+    "selected_index": 7,
+    "route_fraction": 0.8575,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.003718600026331842
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "naive",
+    "selected_index": 8,
+    "route_fraction": 0.8883333333333333,
+    "excess_error": 0.04083333333333333,
+    "certificate_seconds": 0.0005101000424474478
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "tune_likelihood",
+    "selected_index": 7,
+    "route_fraction": 0.8575,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.032175299944356084
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 202,
+    "method": "tune_betting",
+    "selected_index": 7,
+    "route_fraction": 0.8575,
+    "excess_error": 0.034166666666666665,
+    "certificate_seconds": 0.017436299938708544
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "ternary_universal",
+    "selected_index": 6,
+    "route_fraction": 0.8083333333333333,
+    "excess_error": 0.021666666666666667,
+    "certificate_seconds": 0.036409499938599765
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "mixture_betting",
+    "selected_index": 6,
+    "route_fraction": 0.8083333333333333,
+    "excess_error": 0.021666666666666667,
+    "certificate_seconds": 0.03836150001734495
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "predictable_betting",
+    "selected_index": 3,
+    "route_fraction": 0.6366666666666667,
+    "excess_error": 0.006666666666666667,
+    "certificate_seconds": 0.002378599951043725
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "empirical_bernstein",
+    "selected_index": 6,
+    "route_fraction": 0.8083333333333333,
+    "excess_error": 0.021666666666666667,
+    "certificate_seconds": 0.0011764999944716692
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "hoeffding",
+    "selected_index": -1,
+    "route_fraction": 0.0,
+    "excess_error": 0.0,
+    "certificate_seconds": 5.6900084018707275e-05
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "split_cp",
+    "selected_index": 7,
+    "route_fraction": 0.8558333333333333,
+    "excess_error": 0.0325,
+    "certificate_seconds": 0.006389199988916516
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "harm_only",
+    "selected_index": 7,
+    "route_fraction": 0.8558333333333333,
+    "excess_error": 0.0325,
+    "certificate_seconds": 0.0024483000161126256
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "naive",
+    "selected_index": 8,
+    "route_fraction": 0.89,
+    "excess_error": 0.04,
+    "certificate_seconds": 0.0005182999884709716
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "tune_likelihood",
+    "selected_index": 6,
+    "route_fraction": 0.8083333333333333,
+    "excess_error": 0.021666666666666667,
+    "certificate_seconds": 0.03398309997282922
+  },
+  {
+    "dataset": "synthetic",
+    "seed": 303,
+    "method": "tune_betting",
+    "selected_index": 7,
+    "route_fraction": 0.8558333333333333,
+    "excess_error": 0.0325,
+    "certificate_seconds": 0.02171849994920194
+  }
+]

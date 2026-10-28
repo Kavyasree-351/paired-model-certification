@@ -1,0 +1,16 @@
+{
+  "checks": "fixed global final isolation; accuracy/excess identity; all 3 seeds for each dataset",
+  "training_tuning_seconds_total": 17.00261569977738,
+  "candidate_shift_macro_metrics": {
+    "shift_0.1": {
+      "route": 0.6928399122807017,
+      "excess": 0.008032407407407407
+    },
+    "shift_0.3": {
+      "route": 0.6959490740740741,
+      "excess": 0.00579556530214425
+    }
+  },
+  "candidate_empirical_exceedances": 0,
+  "naive_empirical_exceedances": 0
+}

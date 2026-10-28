@@ -1,0 +1,15 @@
+{
+  "means": {
+    "ternary_universal": 0.6932565789473685,
+    "mixture_betting": 0.4535416666666667,
+    "predictable_betting": 0.6499232456140351,
+    "empirical_bernstein": 0.20821759259259257,
+    "hoeffding": 0.0,
+    "split_cp": 0.7075,
+    "harm_only": 0.7075,
+    "naive": 0.9609953703703704,
+    "tune_likelihood": 0.6026644736842105,
+    "tune_betting": 0.7045760233918129
+  },
+  "interpretation": "Exploratory alternatives. No novel method or final-test claim. Same epsilon, delta, thresholds and pools."
+}

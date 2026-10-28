@@ -1,0 +1,31 @@
+# Local environments, dependencies and generated caches
+.venv/
+venv/
+work/
+deps/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mpl-cache/
+.mypy_cache/
+
+# Credentials and local machine files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Downloaded data and model binaries are not vendored
+data/
+*.pkl
+*.pickle
+*.joblib
+*.hdf5
+*.h5
+*.npy
+*.npz

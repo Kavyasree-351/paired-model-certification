@@ -1,0 +1,6914 @@
+[
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9545454545454546,
+      -0.9375,
+      -0.2222222222222222
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 4.895270764773684,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.3166355191886221,
+      0.05,
+      0.19791764905721437
+    ],
+    "mhat": [
+      0.9545454545454546,
+      -0.9375,
+      -0.2222222222222222
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.775657983268578,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.48240315619243346,
+      0.48240315619243346,
+      0.48240315619243346
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.7804362901211317,
+    "objective": "growth",
+    "objective_value": -0.0002529592638863329,
+    "starts": 3,
+    "iterations": [
+      14,
+      15,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.3183877375354011,
+      0.3673893018110582,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.6467644147140452,
+    "objective": "growth",
+    "objective_value": -0.0002739745931997452,
+    "starts": 3,
+    "iterations": [
+      21,
+      23,
+      20
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.6000454673332924,
+      0.6000454673332924,
+      0.6000454673332924
+    ],
+    "mhat": [
+      0.9038461538461539,
+      -0.9444444444444444,
+      -0.11764705882352941
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.8021766866006466,
+    "objective": "growth",
+    "objective_value": -0.002595168076095634,
+    "starts": 3,
+    "iterations": [
+      10,
+      11,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.4236706422869576,
+      0.4509463620580063,
+      1.0
+    ],
+    "mhat": [
+      0.9038461538461539,
+      -0.9444444444444444,
+      -0.11764705882352941
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.663827486376804,
+    "objective": "growth",
+    "objective_value": -0.0027754662511659403,
+    "starts": 3,
+    "iterations": [
+      14,
+      16,
+      18
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.48240315619243346,
+      0.48240315619243346,
+      0.48240315619243346
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.7804362901211317,
+    "objective": "growth",
+    "objective_value": -0.0002529592638863329,
+    "starts": 3,
+    "iterations": [
+      14,
+      15,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.3183877375354011,
+      0.3673893018110582,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.6467644147140452,
+    "objective": "growth",
+    "objective_value": -0.0002739745931997452,
+    "starts": 3,
+    "iterations": [
+      21,
+      23,
+      20
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.4001499526092257,
+      0.4001499526092257,
+      0.4001499526092257
+    ],
+    "mhat": [
+      0.9464285714285714,
+      -0.9818181818181818,
+      0.4166666666666667
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.8310464913175268,
+    "objective": "growth",
+    "objective_value": -0.00010284743615319608,
+    "starts": 3,
+    "iterations": [
+      14,
+      16,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.3341112934878516,
+      0.2254962349290784,
+      0.9879214981458038
+    ],
+    "mhat": [
+      0.9464285714285714,
+      -0.9818181818181818,
+      0.4166666666666667
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.6751462728087876,
+    "objective": "growth",
+    "objective_value": -0.00011221683243179466,
+    "starts": 3,
+    "iterations": [
+      16,
+      16,
+      23
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.48240315619243346,
+      0.48240315619243346,
+      0.48240315619243346
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.7804362901211317,
+    "objective": "growth",
+    "objective_value": -0.0002529592638863329,
+    "starts": 3,
+    "iterations": [
+      14,
+      15,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.3183877375354011,
+      0.3673893018110582,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.6467644147140452,
+    "objective": "growth",
+    "objective_value": -0.0002739745931997452,
+    "starts": 3,
+    "iterations": [
+      21,
+      23,
+      20
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.6070936319709526,
+      0.6070936319709526,
+      0.6070936319709526
+    ],
+    "mhat": [
+      0.8727272727272727,
+      -0.9433962264150944,
+      -0.26666666666666666
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.8087280743516512,
+    "objective": "growth",
+    "objective_value": -0.0025493174498960186,
+    "starts": 3,
+    "iterations": [
+      10,
+      11,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.5051777780427334,
+      0.4566991706392855,
+      1.0
+    ],
+    "mhat": [
+      0.8727272727272727,
+      -0.9433962264150944,
+      -0.26666666666666666
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.6797683578548055,
+    "objective": "growth",
+    "objective_value": -0.0026808997965431514,
+    "starts": 3,
+    "iterations": [
+      12,
+      14,
+      17
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.6679250982756495,
+      0.6679250982756495,
+      0.6679250982756495
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.8194467412250148,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.9192798028776192,
+      0.6294910937730257,
+      0.912283549444362
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.859564602067526,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9180327868852459,
+      -0.9411764705882353,
+      0.36363636363636365
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 5.067157850044427,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.260735193450767,
+      0.05,
+      0.19497675011093182
+    ],
+    "mhat": [
+      0.9180327868852459,
+      -0.9411764705882353,
+      0.36363636363636365
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.7765164805927194,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.6679250982756495,
+      0.6679250982756495,
+      0.6679250982756495
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.8194467412250148,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.9192798028776192,
+      0.6294910937730257,
+      0.912283549444362
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.859564602067526,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.4227188550510838,
+      0.4227188550510838,
+      0.4227188550510838
+    ],
+    "mhat": [
+      0.9491525423728814,
+      -0.98,
+      -0.5
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.8332597438688365,
+    "objective": "growth",
+    "objective_value": -0.0006679426395731362,
+    "starts": 3,
+    "iterations": [
+      8,
+      12,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.30203559332814156,
+      0.26165284531716865,
+      0.9464474784943674
+    ],
+    "mhat": [
+      0.9491525423728814,
+      -0.98,
+      -0.5
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.6590968285058445,
+    "objective": "growth",
+    "objective_value": -0.000728865960424899,
+    "starts": 3,
+    "iterations": [
+      19,
+      20,
+      21
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.6679250982756495,
+      0.6679250982756495,
+      0.6679250982756495
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.8194467412250148,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.9192798028776192,
+      0.6294910937730257,
+      0.912283549444362
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.859564602067526,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.447721421182751,
+      0.447721421182751,
+      0.447721421182751
+    ],
+    "mhat": [
+      0.9454545454545454,
+      -0.9454545454545454,
+      0.46153846153846156
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.811816026246823,
+    "objective": "growth",
+    "objective_value": -1.8007739602230811e-06,
+    "starts": 3,
+    "iterations": [
+      16,
+      7,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.9181742169217051,
+      0.632728908895445,
+      0.9097993772676323
+    ],
+    "mhat": [
+      0.9454545454545454,
+      -0.9454545454545454,
+      0.46153846153846156
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.8603215316143946,
+    "objective": "growth",
+    "objective_value": -1.705756572052829e-06,
+    "starts": 3,
+    "iterations": [
+      7,
+      8,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 4.7888925,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.2847610900399024,
+      0.05,
+      0.30572482168222903
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.4975326610166895,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.46900474450754476,
+      0.46900474450754476,
+      0.46900474450754476
+    ],
+    "mhat": [
+      0.85,
+      -0.9824561403508771,
+      -0.16666666666666666
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.7853823411072813,
+    "objective": "growth",
+    "objective_value": -0.0027133084938509864,
+    "starts": 3,
+    "iterations": [
+      11,
+      10,
+      13
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.5302126444696545,
+      0.30082824547546794,
+      1.0
+    ],
+    "mhat": [
+      0.85,
+      -0.9824561403508771,
+      -0.16666666666666666
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.6822875135781108,
+    "objective": "growth",
+    "objective_value": -0.0028689903547562366,
+    "starts": 3,
+    "iterations": [
+      15,
+      15,
+      19
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 4.7888925,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.2847610900399024,
+      0.05,
+      0.30572482168222903
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.4975326610166895,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9538461538461539,
+      -0.9318181818181818,
+      0.07142857142857142
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 4.801906383363141,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.38320316482396477,
+      0.05,
+      0.2438011711928924
+    ],
+    "mhat": [
+      0.9538461538461539,
+      -0.9318181818181818,
+      0.07142857142857142
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.6403330541343086,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      4,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 4.7888925,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.2847610900399024,
+      0.05,
+      0.30572482168222903
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.4975326610166895,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.1568918158740879,
+      0.1568918158740879,
+      0.1568918158740879
+    ],
+    "mhat": [
+      0.9056603773584906,
+      -0.8679245283018868,
+      0.0
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 8.396948055777724,
+    "objective": "growth",
+    "objective_value": -5.005067602522697e-05,
+    "starts": 3,
+    "iterations": [
+      9,
+      10,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.10500398494472635,
+      0.15008809446477586,
+      0.2849577258253959
+    ],
+    "mhat": [
+      0.9056603773584906,
+      -0.8679245283018868,
+      0.0
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 7.328292781052194,
+    "objective": "growth",
+    "objective_value": -5.5132821519613526e-05,
+    "starts": 3,
+    "iterations": [
+      13,
+      21,
+      21
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.11042304365556316,
+      0.11042304365556316,
+      0.11042304365556316
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 8.060068120638434,
+    "objective": "growth",
+    "objective_value": -5.549712594687027e-05,
+    "starts": 3,
+    "iterations": [
+      8,
+      9,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.06277297543250905,
+      0.09341163244974916,
+      0.2480545246833745
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 6.916897895100003,
+    "objective": "growth",
+    "objective_value": -6.634132593975187e-05,
+    "starts": 3,
+    "iterations": [
+      14,
+      22,
+      31
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.2532396463921257,
+      0.2532396463921257,
+      0.2532396463921257
+    ],
+    "mhat": [
+      0.9433962264150944,
+      -0.8727272727272727,
+      0.26666666666666666
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 9.59455931447468,
+    "objective": "growth",
+    "objective_value": -1.8580167867418474e-07,
+    "starts": 3,
+    "iterations": [
+      6,
+      5,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.928005005204861,
+      0.7380894422103765,
+      0.9115728531716408
+    ],
+    "mhat": [
+      0.9433962264150944,
+      -0.8727272727272727,
+      0.26666666666666666
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 18.386776513149304,
+    "objective": "growth",
+    "objective_value": -1.074243726713014e-07,
+    "starts": 3,
+    "iterations": [
+      9,
+      7,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.11042304365556316,
+      0.11042304365556316,
+      0.11042304365556316
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 8.060068120638434,
+    "objective": "growth",
+    "objective_value": -5.549712594687027e-05,
+    "starts": 3,
+    "iterations": [
+      8,
+      9,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.06277297543250905,
+      0.09341163244974916,
+      0.2480545246833745
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 6.916897895100003,
+    "objective": "growth",
+    "objective_value": -6.634132593975187e-05,
+    "starts": 3,
+    "iterations": [
+      14,
+      22,
+      31
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.1564166582990865,
+      0.1564166582990865,
+      0.1564166582990865
+    ],
+    "mhat": [
+      0.9056603773584906,
+      -0.9137931034482759,
+      -0.25
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 8.479048099270289,
+    "objective": "growth",
+    "objective_value": -0.0006351488076245025,
+    "starts": 3,
+    "iterations": [
+      6,
+      8,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.06934396593277982,
+      0.16116143504899985,
+      0.2719464565208333
+    ],
+    "mhat": [
+      0.9056603773584906,
+      -0.9137931034482759,
+      -0.25
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 7.647543111965826,
+    "objective": "growth",
+    "objective_value": -0.0007269056749007215,
+    "starts": 3,
+    "iterations": [
+      8,
+      15,
+      22
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.11042304365556316,
+      0.11042304365556316,
+      0.11042304365556316
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 8.060068120638434,
+    "objective": "growth",
+    "objective_value": -5.549712594687027e-05,
+    "starts": 3,
+    "iterations": [
+      8,
+      9,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.06277297543250905,
+      0.09341163244974916,
+      0.2480545246833745
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 6.916897895100003,
+    "objective": "growth",
+    "objective_value": -6.634132593975187e-05,
+    "starts": 3,
+    "iterations": [
+      14,
+      22,
+      31
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.10441503617299291,
+      0.10441503617299291,
+      0.10441503617299291
+    ],
+    "mhat": [
+      0.9491525423728814,
+      -0.9444444444444444,
+      -0.1
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 8.08070849737659,
+    "objective": "growth",
+    "objective_value": -1.8094272118237828e-05,
+    "starts": 3,
+    "iterations": [
+      8,
+      11,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.07580674831395413,
+      0.10104982772975729,
+      0.3494123668893534
+    ],
+    "mhat": [
+      0.9491525423728814,
+      -0.9444444444444444,
+      -0.1
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 6.9456305898287125,
+    "objective": "growth",
+    "objective_value": -2.0648752932958626e-05,
+    "starts": 3,
+    "iterations": [
+      12,
+      16,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.7797319981471305,
+      0.7797319981471305,
+      0.7797319981471305
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 17.433297571009316,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.9313302888886693,
+      0.7220747350111604,
+      0.9100808998358244
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 18.286571981456994,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      9,
+      7,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.953125,
+      -0.9347826086956522,
+      0.0
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 9.133405018682067,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.9974671051272439,
+      0.05,
+      0.18435091051898306
+    ],
+    "mhat": [
+      0.953125,
+      -0.9347826086956522,
+      0.0
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 25.150763725640687,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.7797319981471305,
+      0.7797319981471305,
+      0.7797319981471305
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 17.433297571009316,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.9313302888886693,
+      0.7220747350111604,
+      0.9100808998358244
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 18.286571981456994,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      9,
+      7,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.10718884788865093,
+      0.10718884788865093,
+      0.10718884788865093
+    ],
+    "mhat": [
+      0.9824561403508771,
+      -0.9423076923076923,
+      -0.35714285714285715
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 8.40004936382276,
+    "objective": "growth",
+    "objective_value": -6.770028408251664e-05,
+    "starts": 3,
+    "iterations": [
+      8,
+      9,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.05,
+      0.111771357966472,
+      0.26364992216587396
+    ],
+    "mhat": [
+      0.9824561403508771,
+      -0.9423076923076923,
+      -0.35714285714285715
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 7.473610133227428,
+    "objective": "growth",
+    "objective_value": -8.858069588407334e-05,
+    "starts": 3,
+    "iterations": [
+      12,
+      21,
+      25
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.7797319981471305,
+      0.7797319981471305,
+      0.7797319981471305
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 17.433297571009316,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.9313302888886693,
+      0.7220747350111604,
+      0.9100808998358244
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 18.286571981456994,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      9,
+      7,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.14575226590999316,
+      0.14575226590999316,
+      0.14575226590999316
+    ],
+    "mhat": [
+      0.8727272727272727,
+      -0.9814814814814815,
+      -0.5
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 8.848431960519804,
+    "objective": "growth",
+    "objective_value": -0.0011462988986830167,
+    "starts": 3,
+    "iterations": [
+      8,
+      8,
+      13
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.07526788962971555,
+      0.13455369936507702,
+      0.26120321454988293
+    ],
+    "mhat": [
+      0.8727272727272727,
+      -0.9814814814814815,
+      -0.5
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 7.498561862160499,
+    "objective": "growth",
+    "objective_value": -0.0013454514961685215,
+    "starts": 3,
+    "iterations": [
+      11,
+      17,
+      21
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 9.1217,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.7795745440142641,
+      0.05,
+      0.26330451388873083
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 19.623388492065025,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      6,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.1382122707847672,
+      0.1382122707847672,
+      0.1382122707847672
+    ],
+    "mhat": [
+      0.9814814814814815,
+      -0.9137931034482759,
+      -0.5454545454545454
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 8.8691434693589,
+    "objective": "growth",
+    "objective_value": -0.000543236496213004,
+    "starts": 3,
+    "iterations": [
+      4,
+      8,
+      13
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.05,
+      0.1759302915237711,
+      0.276806192349256
+    ],
+    "mhat": [
+      0.9814814814814815,
+      -0.9137931034482759,
+      -0.5454545454545454
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 8.50141049436849,
+    "objective": "growth",
+    "objective_value": -0.0007045262963016125,
+    "starts": 3,
+    "iterations": [
+      8,
+      16,
+      20
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 9.1217,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.7795745440142641,
+      0.05,
+      0.26330451388873083
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 19.623388492065025,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      6,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9516129032258065,
+      -0.8627450980392157,
+      0.7
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 11.101756624943343,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.7552684628282089,
+      0.05,
+      0.18534011582434345
+    ],
+    "mhat": [
+      0.9516129032258065,
+      -0.8627450980392157,
+      0.7
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 22.833837650601378,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      7,
+      5,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 9.1217,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.1,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.7795745440142641,
+      0.05,
+      0.26330451388873083
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 19.623388492065025,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      6,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.7155624968249903,
+      0.7155624968249903,
+      0.7155624968249903
+    ],
+    "mhat": [
+      0.9,
+      -0.875,
+      0.0
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.0904533158583805,
+    "objective": "growth",
+    "objective_value": -1.2015742069978728e-07,
+    "starts": 3,
+    "iterations": [
+      6,
+      7,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.9112558471510334,
+      0.6198954487801764,
+      0.9680443583635018
+    ],
+    "mhat": [
+      0.9,
+      -0.875,
+      0.0
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.933051200314132,
+    "objective": "growth",
+    "objective_value": -1.3107861267607046e-07,
+    "starts": 3,
+    "iterations": [
+      10,
+      8,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9992,
+    "objective": "growth",
+    "objective_value": -0.00022537192947827975,
+    "starts": 3,
+    "iterations": [
+      16,
+      17,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.36999612506732615,
+      0.4217207794099882,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.8244648845459086,
+    "objective": "growth",
+    "objective_value": -0.0002471288696419071,
+    "starts": 3,
+    "iterations": [
+      27,
+      22,
+      21
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9166666666666666,
+      -0.8695652173913043,
+      0.015625
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.036262053679556,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.19523646107214837,
+      0.05,
+      0.5675639857676374
+    ],
+    "mhat": [
+      0.9166666666666666,
+      -0.8695652173913043,
+      0.015625
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.6388506719424623,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9992,
+    "objective": "growth",
+    "objective_value": -0.00022537192947827975,
+    "starts": 3,
+    "iterations": [
+      16,
+      17,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.36999612506732615,
+      0.4217207794099882,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.8244648845459086,
+    "objective": "growth",
+    "objective_value": -0.0002471288696419071,
+    "starts": 3,
+    "iterations": [
+      27,
+      22,
+      21
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9642857142857143,
+      -0.9117647058823529,
+      0.19672131147540983
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.391212883751498,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      7,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.15704528719709537,
+      0.05,
+      0.6869147270301735
+    ],
+    "mhat": [
+      0.9642857142857143,
+      -0.9117647058823529,
+      0.19672131147540983
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.5458418032270513,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      7,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9992,
+    "objective": "growth",
+    "objective_value": -0.00022537192947827975,
+    "starts": 3,
+    "iterations": [
+      16,
+      17,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.36999612506732615,
+      0.4217207794099882,
+      1.0
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.8244648845459086,
+    "objective": "growth",
+    "objective_value": -0.0002471288696419071,
+    "starts": 3,
+    "iterations": [
+      27,
+      22,
+      21
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.972972972972973,
+      -0.9642857142857143,
+      0.1206896551724138
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.14405325626872,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.20750471427984266,
+      0.05,
+      0.7047613262819853
+    ],
+    "mhat": [
+      0.972972972972973,
+      -0.9642857142857143,
+      0.1206896551724138
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.4563152080917434,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.6994582253406713,
+      0.6994582253406713,
+      0.6994582253406713
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.095917652338107,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      7,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.9111630488705399,
+      0.6120904199316776,
+      0.9601822361613205
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9335888936252172,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.96875,
+      -0.96,
+      0.10606060606060606
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.109529038556731,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.16262024307313516,
+      0.05,
+      0.5831768111356069
+    ],
+    "mhat": [
+      0.96875,
+      -0.96,
+      0.10606060606060606
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.5780549743654277,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.6994582253406713,
+      0.6994582253406713,
+      0.6994582253406713
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.095917652338107,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      7,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.9111630488705399,
+      0.6120904199316776,
+      0.9601822361613205
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9335888936252172,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.8372093023255814,
+      -0.9642857142857143,
+      0.17307692307692307
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.364784136689796,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.23172073510005187,
+      0.05,
+      0.40947721685995775
+    ],
+    "mhat": [
+      0.8372093023255814,
+      -0.9642857142857143,
+      0.17307692307692307
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.8880680349874295,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.6994582253406713,
+      0.6994582253406713,
+      0.6994582253406713
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.095917652338107,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      7,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.9111630488705399,
+      0.6120904199316776,
+      0.9601822361613205
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9335888936252172,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9655172413793104,
+      -0.9615384615384616,
+      0.10294117647058823
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.098501791244415,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.15622923016397247,
+      0.05,
+      0.6800697173058137
+    ],
+    "mhat": [
+      0.9655172413793104,
+      -0.9615384615384616,
+      0.10294117647058823
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.4726540688480823,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      7,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 11.990842500000001,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.1816812334876526,
+      0.05,
+      0.6632871099771328
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.4565425167463255,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      7,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9714285714285714,
+      -0.8695652173913043,
+      -0.03076923076923077
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.029795485604987,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.1859503634991832,
+      0.05,
+      0.7714840880582168
+    ],
+    "mhat": [
+      0.9714285714285714,
+      -0.8695652173913043,
+      -0.03076923076923077
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.4335566147592043,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 11.990842500000001,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.1816812334876526,
+      0.05,
+      0.6632871099771328
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.4565425167463255,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      7,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.90625,
+      -0.8214285714285714,
+      0.09523809523809523
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 12.161033603980655,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.17563958002021204,
+      0.05,
+      0.5043486695645596
+    ],
+    "mhat": [
+      0.90625,
+      -0.8214285714285714,
+      0.09523809523809523
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 2.7278016687274302,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 11.990842500000001,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.1816812334876526,
+      0.05,
+      0.6632871099771328
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 2.4565425167463255,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      7,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.9642857142857143,
+      -0.896551724137931,
+      0.19696969696969696
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 23.616860712678527,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.38344006940245073,
+      0.05,
+      0.8556497039781148
+    ],
+    "mhat": [
+      0.9642857142857143,
+      -0.896551724137931,
+      0.19696969696969696
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 18.690693581965174,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      9,
+      6,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.29691955190888586,
+      0.29691955190888586,
+      0.29691955190888586
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 15.951317302030331,
+    "objective": "growth",
+    "objective_value": -2.821294113666683e-05,
+    "starts": 3,
+    "iterations": [
+      9,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.12177746153404802,
+      0.14544713089011244,
+      0.49748534798399063
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 13.33360665093221,
+    "objective": "growth",
+    "objective_value": -3.382925038387732e-05,
+    "starts": 3,
+    "iterations": [
+      15,
+      15,
+      7
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.22285344623239642,
+      0.22285344623239642,
+      0.22285344623239642
+    ],
+    "mhat": [
+      0.9642857142857143,
+      -0.9736842105263158,
+      0.07017543859649122
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 15.94812621199992,
+    "objective": "growth",
+    "objective_value": -0.0003328790370787711,
+    "starts": 3,
+    "iterations": [
+      6,
+      8,
+      15
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.05,
+      0.13011252997497874,
+      0.3240486586721563
+    ],
+    "mhat": [
+      0.9642857142857143,
+      -0.9736842105263158,
+      0.07017543859649122
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 13.775593071805062,
+    "objective": "growth",
+    "objective_value": -0.0004266063411187386,
+    "starts": 3,
+    "iterations": [
+      15,
+      18,
+      20
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.29691955190888586,
+      0.29691955190888586,
+      0.29691955190888586
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 15.951317302030331,
+    "objective": "growth",
+    "objective_value": -2.821294113666683e-05,
+    "starts": 3,
+    "iterations": [
+      9,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.12177746153404802,
+      0.14544713089011244,
+      0.49748534798399063
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 13.33360665093221,
+    "objective": "growth",
+    "objective_value": -3.382925038387732e-05,
+    "starts": 3,
+    "iterations": [
+      15,
+      15,
+      7
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.22645229982921955,
+      0.22645229982921955,
+      0.22645229982921955
+    ],
+    "mhat": [
+      0.972972972972973,
+      -0.9090909090909091,
+      -0.11320754716981132
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 16.022210950090777,
+    "objective": "growth",
+    "objective_value": -8.301774023909721e-05,
+    "starts": 3,
+    "iterations": [
+      10,
+      10,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.052164490910650806,
+      0.15241298189884622,
+      0.3222274538417776
+    ],
+    "mhat": [
+      0.972972972972973,
+      -0.9090909090909091,
+      -0.11320754716981132
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 13.900664598735391,
+    "objective": "growth",
+    "objective_value": -0.00010475611807131038,
+    "starts": 3,
+    "iterations": [
+      14,
+      17,
+      24
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.29691955190888586,
+      0.29691955190888586,
+      0.29691955190888586
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 15.951317302030331,
+    "objective": "growth",
+    "objective_value": -2.821294113666683e-05,
+    "starts": 3,
+    "iterations": [
+      9,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.12177746153404802,
+      0.14544713089011244,
+      0.49748534798399063
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 13.33360665093221,
+    "objective": "growth",
+    "objective_value": -3.382925038387732e-05,
+    "starts": 3,
+    "iterations": [
+      15,
+      15,
+      7
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.3061943313983205,
+      0.3061943313983205,
+      0.3061943313983205
+    ],
+    "mhat": [
+      0.9,
+      -0.9090909090909091,
+      0.15
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 16.162797733080513,
+    "objective": "growth",
+    "objective_value": -4.388322827861742e-08,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.9163274284207668,
+      0.712450694681009,
+      0.9457205741952488
+    ],
+    "mhat": [
+      0.9,
+      -0.9090909090909091,
+      0.15
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 19.425298646111322,
+    "objective": "growth",
+    "objective_value": -3.408637249644486e-08,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.3046414039667148,
+      0.3046414039667148,
+      0.3046414039667148
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 15.959204759205987,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.9172230104398816,
+      0.7027501729219136,
+      0.9467429211631367
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 19.376622700049552,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.2957535521259095,
+      0.2957535521259095,
+      0.2957535521259095
+    ],
+    "mhat": [
+      0.875,
+      -0.9655172413793104,
+      -0.05555555555555555
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 15.985458534003447,
+    "objective": "growth",
+    "objective_value": -8.681963729752416e-06,
+    "starts": 3,
+    "iterations": [
+      9,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.20985357124263335,
+      0.05,
+      0.4181537873175938
+    ],
+    "mhat": [
+      0.875,
+      -0.9655172413793104,
+      -0.05555555555555555
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 14.561484066774899,
+    "objective": "growth",
+    "objective_value": -9.469436247175708e-06,
+    "starts": 3,
+    "iterations": [
+      10,
+      7,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.3046414039667148,
+      0.3046414039667148,
+      0.3046414039667148
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 15.959204759205987,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.9172230104398816,
+      0.7027501729219136,
+      0.9467429211631367
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 19.376622700049552,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.2970327301128456,
+      0.2970327301128456,
+      0.2970327301128456
+    ],
+    "mhat": [
+      0.8,
+      -0.9,
+      -0.15517241379310345
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 16.24612214255472,
+    "objective": "growth",
+    "objective_value": -0.00038219370081656203,
+    "starts": 3,
+    "iterations": [
+      6,
+      8,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.1814759649111287,
+      0.2118416789901004,
+      0.3724306891989124
+    ],
+    "mhat": [
+      0.8,
+      -0.9,
+      -0.15517241379310345
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 13.97122630826824,
+    "objective": "growth",
+    "objective_value": -0.0004157373638896314,
+    "starts": 3,
+    "iterations": [
+      13,
+      18,
+      23
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.3046414039667148,
+      0.3046414039667148,
+      0.3046414039667148
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 15.959204759205987,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.9172230104398816,
+      0.7027501729219136,
+      0.9467429211631367
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 19.376622700049552,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.809405271288426,
+      0.809405271288426,
+      0.809405271288426
+    ],
+    "mhat": [
+      0.9142857142857143,
+      -0.9615384615384616,
+      -0.016129032258064516
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 19.301242079367146,
+    "objective": "growth",
+    "objective_value": -2.840381528164713e-09,
+    "starts": 3,
+    "iterations": [
+      5,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.9186807803605289,
+      0.700032213816745,
+      0.9473179770652104
+    ],
+    "mhat": [
+      0.9142857142857143,
+      -0.9615384615384616,
+      -0.016129032258064516
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 19.363360478976986,
+    "objective": "growth",
+    "objective_value": -1.3487322800868297e-09,
+    "starts": 3,
+    "iterations": [
+      11,
+      8,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.8397,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.4481287927634874,
+      0.05,
+      0.9052627920990013
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 18.88153768616523,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      10,
+      7,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.2938347591406943,
+      0.2938347591406943,
+      0.2938347591406943
+    ],
+    "mhat": [
+      0.9142857142857143,
+      -0.967741935483871,
+      0.03508771929824561
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 15.919056456418566,
+    "objective": "growth",
+    "objective_value": -9.293426383071412e-06,
+    "starts": 3,
+    "iterations": [
+      8,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.174308509552693,
+      0.05,
+      0.4140591750138097
+    ],
+    "mhat": [
+      0.9142857142857143,
+      -0.967741935483871,
+      0.03508771929824561
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 14.166615511200725,
+    "objective": "growth",
+    "objective_value": -1.0483012107556117e-05,
+    "starts": 3,
+    "iterations": [
+      10,
+      7,
+      6
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.8397,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.4481287927634874,
+      0.05,
+      0.9052627920990013
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 18.88153768616523,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      10,
+      7,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.28848819348960425,
+      0.28848819348960425,
+      0.28848819348960425
+    ],
+    "mhat": [
+      0.84375,
+      -0.9032258064516129,
+      -0.08333333333333333
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 16.009314057401998,
+    "objective": "growth",
+    "objective_value": -0.00028553485748688135,
+    "starts": 3,
+    "iterations": [
+      7,
+      9,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.1595623977895257,
+      0.1992755954886739,
+      0.36845847975231383
+    ],
+    "mhat": [
+      0.84375,
+      -0.9032258064516129,
+      -0.08333333333333333
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 13.5816672866729,
+    "objective": "growth",
+    "objective_value": -0.0003151783555124692,
+    "starts": 3,
+    "iterations": [
+      13,
+      15,
+      23
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.8397,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 0.5,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.4481287927634874,
+      0.05,
+      0.9052627920990013
+    ],
+    "mhat": [
+      0.95,
+      -0.95,
+      0.0
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 18.88153768616523,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      10,
+      7,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.25,
+      0.06,
+      0.10810810810810811
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 21.40564920745069,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      2
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.3183288405232236,
+      0.05,
+      0.3611887463893344
+    ],
+    "mhat": [
+      0.25,
+      0.06,
+      0.10810810810810811
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 10.79781843790342,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.00022537192947820386,
+    "starts": 3,
+    "iterations": [
+      12,
+      13,
+      9
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.0002253719294782715,
+    "starts": 3,
+    "iterations": [
+      0,
+      12,
+      17
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.0,
+      -0.10869565217391304,
+      -0.175
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.005452903370269024,
+    "starts": 3,
+    "iterations": [
+      13,
+      10,
+      9
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.0,
+      -0.10869565217391304,
+      -0.175
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.00545290337017779,
+    "starts": 3,
+    "iterations": [
+      14,
+      14,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.00022537192947820386,
+    "starts": 3,
+    "iterations": [
+      12,
+      13,
+      9
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.0002253719294782715,
+    "starts": 3,
+    "iterations": [
+      0,
+      12,
+      17
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.13953488372093023,
+      0.0,
+      0.14634146341463414
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9992,
+    "objective": "growth",
+    "objective_value": -0.0006264836005102704,
+    "starts": 3,
+    "iterations": [
+      11,
+      11,
+      10
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.13953488372093023,
+      0.0,
+      0.14634146341463414
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9992,
+    "objective": "growth",
+    "objective_value": -0.0006264836005102645,
+    "starts": 3,
+    "iterations": [
+      14,
+      21,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.00022537192947820386,
+    "starts": 3,
+    "iterations": [
+      12,
+      13,
+      9
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 1.9991999999999996,
+    "objective": "growth",
+    "objective_value": -0.0002253719294782715,
+    "starts": 3,
+    "iterations": [
+      0,
+      12,
+      17
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.358974358974359,
+      0.2702702702702703,
+      0.1276595744680851
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 21.94510078723453,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      3,
+      3,
+      2
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.2942214006954136,
+      0.3089813109331703,
+      0.05
+    ],
+    "mhat": [
+      0.358974358974359,
+      0.2702702702702703,
+      0.1276595744680851
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 10.968033075985495,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      3,
+      4,
+      2
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.26770614103968415,
+      0.26770614103968415,
+      0.26770614103968415
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 4.723600552366981,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.46573819236593395,
+      0.46573819236593395,
+      0.4657381944314126
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 3.139261218804382,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      0,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.03125,
+      -0.1509433962264151,
+      0.13157894736842105
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9949999999999997,
+    "objective": "growth",
+    "objective_value": -0.0017118944807286037,
+    "starts": 3,
+    "iterations": [
+      10,
+      9,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.03125,
+      -0.1509433962264151,
+      0.13157894736842105
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9949999999999997,
+    "objective": "growth",
+    "objective_value": -0.001711894480729284,
+    "starts": 3,
+    "iterations": [
+      17,
+      17,
+      13
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.26770614103968415,
+      0.26770614103968415,
+      0.26770614103968415
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 4.723600552366981,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.46573819236593395,
+      0.46573819236593395,
+      0.4657381944314126
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 3.139261218804382,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      0,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.175,
+      0.24489795918367346,
+      -0.3235294117647059
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 22.231843999049197,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.3463946228552478,
+      0.3780704740284718,
+      0.05
+    ],
+    "mhat": [
+      0.175,
+      0.24489795918367346,
+      -0.3235294117647059
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 11.831266087573475,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.26770614103968415,
+      0.26770614103968415,
+      0.26770614103968415
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 4.723600552366981,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      5,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.46573819236593395,
+      0.46573819236593395,
+      0.4657381944314126
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 3.139261218804382,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      0,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.18421052631578946,
+      -0.021739130434782608,
+      0.05128205128205128
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9872,
+    "objective": "growth",
+    "objective_value": -0.0024397392942286486,
+    "starts": 3,
+    "iterations": [
+      14,
+      10,
+      10
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.18421052631578946,
+      -0.021739130434782608,
+      0.05128205128205128
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9872,
+    "objective": "growth",
+    "objective_value": -0.0024397392942151937,
+    "starts": 3,
+    "iterations": [
+      20,
+      13,
+      14
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 20.865599999999997,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      4,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.4659803992617972,
+      0.4659803992617972,
+      0.4659803992617972
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 3.125878528397447,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      0,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.05128205128205128,
+      0.175,
+      -0.1590909090909091
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9871999999999996,
+    "objective": "growth",
+    "objective_value": -0.000286321456582517,
+    "starts": 3,
+    "iterations": [
+      10,
+      12,
+      9
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.05128205128205128,
+      0.175,
+      -0.1590909090909091
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9871999999999996,
+    "objective": "growth",
+    "objective_value": -0.00028632145658078433,
+    "starts": 3,
+    "iterations": [
+      14,
+      20,
+      13
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 20.865599999999997,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      4,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.4659803992617972,
+      0.4659803992617972,
+      0.4659803992617972
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 3.125878528397447,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      0,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.10256410256410256,
+      -0.2564102564102564,
+      -0.08888888888888889
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9871999999999999,
+    "objective": "growth",
+    "objective_value": -0.004314595906322813,
+    "starts": 3,
+    "iterations": [
+      13,
+      9,
+      9
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.10256410256410256,
+      -0.2564102564102564,
+      -0.08888888888888889
+    ],
+    "scout_cost": 240.0,
+    "true_variance_times_cost": 1.9871999999999999,
+    "objective": "growth",
+    "objective_value": -0.00431459590632204,
+    "starts": 3,
+    "iterations": [
+      12,
+      15,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 20.865599999999997,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      4,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 1.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.4659803992617972,
+      0.4659803992617972,
+      0.4659803992617972
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 3.125878528397447,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      0,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      false,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.8889615696803987,
+      0.8889615696803987,
+      0.8889615696803987
+    ],
+    "mhat": [
+      -0.18,
+      -0.12903225806451613,
+      0.40476190476190477
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 21.280852722164454,
+    "objective": "growth",
+    "objective_value": -7.297970030141265e-06,
+    "starts": 3,
+    "iterations": [
+      13,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.82295264421001,
+      0.9144461583793095,
+      0.9229144054653927
+    ],
+    "mhat": [
+      -0.18,
+      -0.12903225806451613,
+      0.40476190476190477
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 21.320350976002818,
+    "objective": "growth",
+    "objective_value": -7.26203292454763e-06,
+    "starts": 3,
+    "iterations": [
+      18,
+      14,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.896106688689138,
+      0.896106688689138,
+      0.896106688689138
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 21.1074921758951,
+    "objective": "growth",
+    "objective_value": -2.1344142571826718e-05,
+    "starts": 3,
+    "iterations": [
+      11,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.9234871060644738,
+      0.9234871060644738,
+      0.8810626886900326
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 21.10161972997911,
+    "objective": "growth",
+    "objective_value": -2.135031996537778e-05,
+    "starts": 3,
+    "iterations": [
+      6,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.125,
+      -0.09302325581395349,
+      0.025
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 20.991599999999995,
+    "objective": "growth",
+    "objective_value": -0.00031542587572176185,
+    "starts": 3,
+    "iterations": [
+      15,
+      10,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.125,
+      -0.09302325581395349,
+      0.025
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 20.991599999999995,
+    "objective": "growth",
+    "objective_value": -0.000315425821356772,
+    "starts": 3,
+    "iterations": [
+      27,
+      25,
+      10
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.896106688689138,
+      0.896106688689138,
+      0.896106688689138
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 21.1074921758951,
+    "objective": "growth",
+    "objective_value": -2.1344142571826718e-05,
+    "starts": 3,
+    "iterations": [
+      11,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.9234871060644738,
+      0.9234871060644738,
+      0.8810626886900326
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 21.10161972997911,
+    "objective": "growth",
+    "objective_value": -2.135031996537778e-05,
+    "starts": 3,
+    "iterations": [
+      6,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.18421052631578946,
+      -0.13333333333333333,
+      -0.225
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 20.9916,
+    "objective": "growth",
+    "objective_value": -0.00031585263413680224,
+    "starts": 3,
+    "iterations": [
+      14,
+      12,
+      12
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      0.18421052631578946,
+      -0.13333333333333333,
+      -0.225
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 20.9916,
+    "objective": "growth",
+    "objective_value": -0.00031585263420778756,
+    "starts": 3,
+    "iterations": [
+      19,
+      21,
+      11
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.896106688689138,
+      0.896106688689138,
+      0.896106688689138
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 21.1074921758951,
+    "objective": "growth",
+    "objective_value": -2.1344142571826718e-05,
+    "starts": 3,
+    "iterations": [
+      11,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.02,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.9234871060644738,
+      0.9234871060644738,
+      0.8810626886900326
+    ],
+    "mhat": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 21.10161972997911,
+    "objective": "growth",
+    "objective_value": -2.135031996537778e-05,
+    "starts": 3,
+    "iterations": [
+      6,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.06,
+      0.2926829268292683,
+      0.28125
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 41.32463982934265,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.05,
+      0.46990771523570357,
+      0.3978916760055455
+    ],
+    "mhat": [
+      0.06,
+      0.2926829268292683,
+      0.28125
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 58.679093932956725,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      6,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 39.9,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.4686970207885971,
+      0.4686970207885971,
+      0.4686970207885971
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.078240538678216,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      -0.08823529411764706,
+      0.22641509433962265,
+      0.19444444444444445
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 40.800542741365845,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.05,
+      0.5990407287420028,
+      0.45871446728032417
+    ],
+    "mhat": [
+      -0.08823529411764706,
+      0.22641509433962265,
+      0.19444444444444445
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 67.63435920851808,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      7,
+      6,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 39.9,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.4686970207885971,
+      0.4686970207885971,
+      0.4686970207885971
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.078240538678216,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.24390243902439024,
+      0.0425531914893617,
+      0.0
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 40.40861240367695,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      0.4786560971282752,
+      0.5284306630957014,
+      0.05
+    ],
+    "mhat": [
+      0.24390243902439024,
+      0.0425531914893617,
+      0.0
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 64.40512075677584,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      8,
+      7,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 39.9,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      5,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.05,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.4686970207885971,
+      0.4686970207885971,
+      0.4686970207885971
+    ],
+    "mhat": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.078240538678216,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      4,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.2926829268292683,
+      0.1951219512195122,
+      0.14634146341463414
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 40.54058488994646,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "learned_post",
+    "l": [
+      0.4797313105067985,
+      0.4817437768473523,
+      0.05
+    ],
+    "mhat": [
+      0.2926829268292683,
+      0.1951219512195122,
+      0.14634146341463414
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 62.33921488024782,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      7,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 39.74399999999999,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1201,
+    "method": "oracle_post",
+    "l": [
+      0.32208751561367305,
+      0.32208751561367305,
+      0.32208751561367305
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.956875854647436,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.14705882352941177,
+      0.4186046511627907,
+      0.021739130434782608
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 41.29622811064644,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "learned_post",
+    "l": [
+      0.39368979284786626,
+      0.48105175740133677,
+      0.05
+    ],
+    "mhat": [
+      0.14705882352941177,
+      0.4186046511627907,
+      0.021739130434782608
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 58.887219350580196,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      6,
+      5,
+      3
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 39.74399999999999,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1202,
+    "method": "oracle_post",
+    "l": [
+      0.32208751561367305,
+      0.32208751561367305,
+      0.32208751561367305
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.956875854647436,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_pre",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.020833333333333332,
+      0.15384615384615385,
+      -0.1388888888888889
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 20.8656,
+    "objective": "growth",
+    "objective_value": -5.954050830589798e-05,
+    "starts": 3,
+    "iterations": [
+      12,
+      14,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "learned_post",
+    "l": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mhat": [
+      -0.020833333333333332,
+      0.15384615384615385,
+      -0.1388888888888889
+    ],
+    "scout_cost": 2520.0,
+    "true_variance_times_cost": 20.8656,
+    "objective": "growth",
+    "objective_value": -5.9540360413816084e-05,
+    "starts": 3,
+    "iterations": [
+      25,
+      14,
+      5
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_pre",
+    "l": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 39.74399999999999,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      5,
+      4,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "rho": 1.0,
+    "label_cost": 20.0,
+    "target": 0.08,
+    "seed": 1203,
+    "method": "oracle_post",
+    "l": [
+      0.32208751561367305,
+      0.32208751561367305,
+      0.32208751561367305
+    ],
+    "mhat": [
+      0.08,
+      0.08,
+      0.08
+    ],
+    "scout_cost": 0.0,
+    "true_variance_times_cost": 22.956875854647436,
+    "objective": "growth",
+    "objective_value": -0.0,
+    "starts": 3,
+    "iterations": [
+      4,
+      3,
+      4
+    ],
+    "optimizer_success": [
+      true,
+      true,
+      true
+    ]
+  }
+]

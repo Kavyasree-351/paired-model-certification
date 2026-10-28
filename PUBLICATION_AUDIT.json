@@ -1,0 +1,17 @@
+{
+  "project": "paired-model-certification",
+  "copied_files": 86,
+  "sanitized_path_files": [
+    "frozen-before-fresh.json",
+    "protocol-before-pilot.json"
+  ],
+  "excluded": [
+    "Python bytecode",
+    "matplotlib font caches",
+    "original delivery checksum manifest",
+    "raw datasets and environments"
+  ],
+  "secret_pattern_scan_passed": true,
+  "research_values_changed": false,
+  "historical_hash_note": "Frozen research hashes describe original experiment snapshots, not this sanitized publication copy."
+}

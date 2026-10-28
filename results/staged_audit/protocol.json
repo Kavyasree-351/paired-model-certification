@@ -1,0 +1,25 @@
+{
+  "seeds": [
+    811,
+    822,
+    833
+  ],
+  "reps_per_seed": 50,
+  "n_scout": 500,
+  "max_stream": 10000,
+  "generator": "binary paired losses with hidden common random label permutation",
+  "reference_cost": 1.0,
+  "label_costs": [
+    0.2,
+    5.0
+  ],
+  "total_cost_cap": 4000.0,
+  "target_excess": [
+    0.02,
+    0.05,
+    0.08
+  ],
+  "primary": "safe-target certification success at matched total acquisition cost",
+  "gate": "learned joint allocation improves >= .05 over strongest feasible comparator in both cost settings; positive gains in >=2/3 seeds; no null alarm > .05; genuinely distinct technical claim required",
+  "scope": "Oracle/learned context-only probabilities; scout cost included; not a reproduction of AM-PPI; real held-out pools untouched."
+}

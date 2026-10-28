@@ -1,0 +1,38 @@
+[
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\alternatives.py",
+    "Hash": "F59BCB5B3B47D5B803E74710CC9BF6F54A6EC9252612A0E92AC378AFA76384DD"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\ATTEMPTS.md",
+    "Hash": "64BA7C32EF98A4B7D50A218872170B8600E7BC0211CBB7899C9CE0EE0381BBE9"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\certificates.py",
+    "Hash": "9FFBCEB7301ED28979C28755703DF7525CAE90C863EB363FB7D16BA8B717A063"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\requirements-lock.txt",
+    "Hash": "799F26E922326AAF73C3A7A88037602B13024D99D755E068E0AA8D42B9347884"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\requirements.txt",
+    "Hash": "2088FFD8334D2FF676292F396AEDDF45315565B3CC83B1791EB298EB8EBB9E82"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\RESEARCH_PLAN.md",
+    "Hash": "DB16717F1D673E83C40CC38DB682DE493D8C621E83EE3CA66F46FA2316CF3583"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\research.py",
+    "Hash": "522D7C6C123D92ADBC86AB31AD5BEAFF60B6872A446901FB2A6E9B4AE05A76C4"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\simulate.py",
+    "Hash": "081B43B72776B6B45DC0E507596EE7A84C13AAC396F0818DAEDB94E7901EF609"
+  },
+  {
+    "Path": "<WORKSPACE>\\outputs\\paired-certification\\test_correctness.py",
+    "Hash": "79219CADB247B18C8029DEF8B731F0C28D21E6F275E433D3384C926DF6F258F0"
+  }
+]

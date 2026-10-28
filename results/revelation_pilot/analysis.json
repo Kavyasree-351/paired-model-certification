@@ -1,0 +1,77 @@
+{
+  "paired_gains": [
+    {
+      "rho": 0.1,
+      "gain": -0.033333333333333326,
+      "seed_gains": [
+        -0.04999999999999999,
+        -0.09999999999999999,
+        0.04999999999999999
+      ],
+      "positive_seed_fraction": 0.3333333333333333,
+      "conditional_seed_t95_interval": [
+        -0.22306248501317127,
+        0.15639581834650462
+      ]
+    },
+    {
+      "rho": 0.5,
+      "gain": -0.033333333333333326,
+      "seed_gains": [
+        -0.15,
+        0.05,
+        0.0
+      ],
+      "positive_seed_fraction": 0.3333333333333333,
+      "conditional_seed_t95_interval": [
+        -0.2918905839604465,
+        0.22522391729377983
+      ]
+    },
+    {
+      "rho": 1.0,
+      "gain": -0.016666666666666677,
+      "seed_gains": [
+        -0.05,
+        0.0,
+        0.0
+      ],
+      "positive_seed_fraction": 0.0,
+      "conditional_seed_t95_interval": [
+        -0.08837754549582438,
+        0.05504421216249106
+      ]
+    }
+  ],
+  "known_theory_examples": [
+    {
+      "rho": 0.1,
+      "expected_label_fraction": 0.2,
+      "pre_variance": 1.7506000000000004,
+      "post_variance": 1.5377499099279284,
+      "variance_reduction_fraction": 0.12158693594885861,
+      "post_label_probabilities": [
+        0.16389999277421674,
+        0.16389999277421674,
+        0.5249000650320489
+      ]
+    },
+    {
+      "rho": 0.5,
+      "expected_label_fraction": 0.2,
+      "pre_variance": 3.1946000000000003,
+      "post_variance": 2.6033497497997997,
+      "variance_reduction_fraction": 0.18507802235027881,
+      "post_label_probabilities": [
+        0.09518001104483986,
+        0.09518001104483986,
+        0.30481998895516016
+      ]
+    }
+  ],
+  "checks": {
+    "heterogeneous_outputs_identical_after_control_fix": true
+  },
+  "null_max_empirical_rate": 0.05,
+  "warning": "Only three trained-surrogate seeds; pooled binomial intervals are descriptive in this heterogeneous replication design. Seed t intervals are approximate and wide. This is not an empirical proof of safety or impossibility."
+}

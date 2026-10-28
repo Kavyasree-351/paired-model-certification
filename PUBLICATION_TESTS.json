@@ -1,0 +1,8 @@
+{
+  "successful": true,
+  "tests_run": 19,
+  "failures": [],
+  "errors": [],
+  "seconds": 2.474833899992518,
+  "scope": "Bounded correctness/smoke checks only; no experiment outputs rewritten and no final data evaluated."
+}

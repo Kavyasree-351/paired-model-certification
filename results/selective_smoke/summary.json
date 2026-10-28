@@ -1,0 +1,183 @@
+{
+  "tests_passed": 4,
+  "seconds_excluding_imports": 18.794449800043367,
+  "n_per_trial": 3000,
+  "seeds": [
+    71,
+    72,
+    73
+  ],
+  "repetitions_per_seed": 100,
+  "summary": [
+    {
+      "true_excess": 0.02,
+      "method": "all",
+      "trials": 300,
+      "certifications": 246,
+      "certification_rate": 0.82,
+      "rate_ci95": [
+        0.7717606138551039,
+        0.8617895954148327
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1662.8033333333333,
+      "mean_labels_until_stop_or_cap": 1662.8033333333333,
+      "mean_ipw_bias": 0.0
+    },
+    {
+      "true_excess": 0.02,
+      "method": "agreement_skip",
+      "trials": 300,
+      "certifications": 246,
+      "certification_rate": 0.82,
+      "rate_ci95": [
+        0.7717606138551039,
+        0.8617895954148327
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1662.8033333333333,
+      "mean_labels_until_stop_or_cap": 295.7133333333333,
+      "mean_ipw_bias": 0.0
+    },
+    {
+      "true_excess": 0.02,
+      "method": "uniform_reference",
+      "trials": 300,
+      "certifications": 127,
+      "certification_rate": 0.42333333333333334,
+      "rate_ci95": [
+        0.3667592429551087,
+        0.48143680977655334
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1058.65,
+      "mean_labels_until_stop_or_cap": 187.76666666666668,
+      "mean_ipw_bias": 0.00020257178526841588
+    },
+    {
+      "true_excess": 0.02,
+      "method": "joint_fixed",
+      "trials": 300,
+      "certifications": 113,
+      "certification_rate": 0.37666666666666665,
+      "rate_ci95": [
+        0.3216290505585249,
+        0.43416636827560456
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1135.43,
+      "mean_labels_until_stop_or_cap": 352.0566666666667,
+      "mean_ipw_bias": 0.0002318518518518518
+    },
+    {
+      "true_excess": 0.05,
+      "method": "all",
+      "trials": 300,
+      "certifications": 4,
+      "certification_rate": 0.013333333333333334,
+      "rate_ci95": [
+        0.00364451405206652,
+        0.03378489626191785
+      ],
+      "mean_reference_calls_until_stop_or_cap": 2964.24,
+      "mean_labels_until_stop_or_cap": 2964.24,
+      "mean_ipw_bias": 0.0
+    },
+    {
+      "true_excess": 0.05,
+      "method": "agreement_skip",
+      "trials": 300,
+      "certifications": 4,
+      "certification_rate": 0.013333333333333334,
+      "rate_ci95": [
+        0.00364451405206652,
+        0.03378489626191785
+      ],
+      "mean_reference_calls_until_stop_or_cap": 2964.24,
+      "mean_labels_until_stop_or_cap": 527.8133333333334,
+      "mean_ipw_bias": 0.0
+    },
+    {
+      "true_excess": 0.05,
+      "method": "uniform_reference",
+      "trials": 300,
+      "certifications": 3,
+      "certification_rate": 0.01,
+      "rate_ci95": [
+        0.0020670072350923163,
+        0.028944511255692605
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1323.5866666666666,
+      "mean_labels_until_stop_or_cap": 235.51333333333332,
+      "mean_ipw_bias": 0.0001341947565543103
+    },
+    {
+      "true_excess": 0.05,
+      "method": "joint_fixed",
+      "trials": 300,
+      "certifications": 3,
+      "certification_rate": 0.01,
+      "rate_ci95": [
+        0.0020670072350923163,
+        0.028944511255692605
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1328.3233333333333,
+      "mean_labels_until_stop_or_cap": 414.04333333333335,
+      "mean_ipw_bias": -0.00021913580246913598
+    },
+    {
+      "true_excess": 0.08,
+      "method": "all",
+      "trials": 300,
+      "certifications": 0,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0.0,
+        0.012220974694293552
+      ],
+      "mean_reference_calls_until_stop_or_cap": 3000.0,
+      "mean_labels_until_stop_or_cap": 3000.0,
+      "mean_ipw_bias": 0.0
+    },
+    {
+      "true_excess": 0.08,
+      "method": "agreement_skip",
+      "trials": 300,
+      "certifications": 0,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0.0,
+        0.012220974694293552
+      ],
+      "mean_reference_calls_until_stop_or_cap": 3000.0,
+      "mean_labels_until_stop_or_cap": 531.76,
+      "mean_ipw_bias": 0.0
+    },
+    {
+      "true_excess": 0.08,
+      "method": "uniform_reference",
+      "trials": 300,
+      "certifications": 0,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0.0,
+        0.012220974694293552
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1334.7966666666666,
+      "mean_labels_until_stop_or_cap": 236.18666666666667,
+      "mean_ipw_bias": -0.00020209737827714774
+    },
+    {
+      "true_excess": 0.08,
+      "method": "joint_fixed",
+      "trials": 300,
+      "certifications": 0,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0.0,
+        0.012220974694293552
+      ],
+      "mean_reference_calls_until_stop_or_cap": 1335.01,
+      "mean_labels_until_stop_or_cap": 413.8233333333333,
+      "mean_ipw_bias": -0.00010641975308642094
+    }
+  ],
+  "scope": "Known IPW and betting machinery, fixed synthetic acquisition policy; no learned allocation, optimality result or novelty claim. No real evaluation/test pools used.",
+  "interpretation": "Certification rates must be compared together with resource costs. Costs include failed attempts up to cap; lower spend alone is not an improvement."
+}

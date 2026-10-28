@@ -1,0 +1,18 @@
+{
+  "pass": false,
+  "strongest_baseline": "split_cp",
+  "means": {
+    "ternary_universal": 0.6806067251461987,
+    "mixture_betting": 0.5326352339181287,
+    "predictable_betting": 0.6346345029239766,
+    "empirical_bernstein": 0.28050925925925924,
+    "hoeffding": 0.014166666666666668,
+    "split_cp": 0.6993019005847954,
+    "harm_only": 0.6993019005847954,
+    "naive": 0.9631944444444444
+  },
+  "paired_primary_gain": -0.018695175438596483,
+  "positive_fraction": 0.0,
+  "decision": "NO full experiment: candidate did not meet predefined gate",
+  "warning": "Three seeds give imprecise intervals. Empirical test excess is not population risk; violation counts are descriptive."
+}

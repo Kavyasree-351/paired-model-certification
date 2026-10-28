@@ -1,0 +1,7 @@
+{
+  "max_null_rejection_rate": 0.02666666666666667,
+  "max_null_upper_ci": 0.05186581196093096,
+  "warning": "Marginal Monte Carlo intervals, not simultaneous bounds or proof; diagnostic only.",
+  "number_scenarios": 36,
+  "draws_per_scenario": 300
+}

@@ -1,0 +1,1282 @@
+[
+  {
+    "dataset": "cancer",
+    "method": "empirical_bernstein",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "empirical_bernstein",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "harm_only",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.9707602339181287,
+    "route_ci95_halfwidth": 0.09072184232530282,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "harm_only",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9941520467836257,
+    "route_ci95_halfwidth": 0.02516171186987997,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "harm_only",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9824561403508771,
+    "route_ci95_halfwidth": 0.07548513560963976,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "harm_only",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9824561403508771,
+    "route_ci95_halfwidth": 0.07548513560963976,
+    "excess_error_mean": -0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "hoeffding",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "hoeffding",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "hoeffding",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "hoeffding",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "mixture_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "mixture_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.32748538011695905,
+    "route_ci95_halfwidth": 1.4090558647132743,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "mixture_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.32748538011695905,
+    "route_ci95_halfwidth": 1.4090558647132743,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "mixture_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.32748538011695905,
+    "route_ci95_halfwidth": 1.4090558647132743,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "naive",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "naive",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "naive",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "naive",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": -0.017543859649122806,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "predictable_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.9707602339181287,
+    "route_ci95_halfwidth": 0.09072184232530282,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "predictable_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9707602339181287,
+    "route_ci95_halfwidth": 0.09072184232530282,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "predictable_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9707602339181287,
+    "route_ci95_halfwidth": 0.09072184232530282,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "predictable_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9649122807017543,
+    "route_ci95_halfwidth": 0.11530544925839352,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "split_cp",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "split_cp",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9941520467836257,
+    "route_ci95_halfwidth": 0.02516171186987997,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "split_cp",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9824561403508771,
+    "route_ci95_halfwidth": 0.07548513560963976,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "split_cp",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9824561403508771,
+    "route_ci95_halfwidth": 0.07548513560963976,
+    "excess_error_mean": -0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "ternary_universal",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "ternary_universal",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9707602339181287,
+    "route_ci95_halfwidth": 0.09072184232530282,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "ternary_universal",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9707602339181287,
+    "route_ci95_halfwidth": 0.09072184232530282,
+    "excess_error_mean": 0.005847953216374269,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "cancer",
+    "method": "ternary_universal",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9649122807017543,
+    "route_ci95_halfwidth": 0.11530544925839352,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "empirical_bernstein",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "empirical_bernstein",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.3148148148148148,
+    "route_ci95_halfwidth": 0.6940746720502236,
+    "excess_error_mean": -0.003703703703703704,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.3111111111111111,
+    "route_ci95_halfwidth": 0.6894860016723017,
+    "excess_error_mean": -0.003703703703703704,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.3111111111111111,
+    "route_ci95_halfwidth": 0.6807289447127056,
+    "excess_error_mean": -0.003703703703703704,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "harm_only",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.9555555555555556,
+    "route_ci95_halfwidth": 0.09660535545695724,
+    "excess_error_mean": 0.011111111111111112,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "harm_only",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9555555555555556,
+    "route_ci95_halfwidth": 0.09660535545695724,
+    "excess_error_mean": 0.011111111111111112,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "harm_only",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9574074074074074,
+    "route_ci95_halfwidth": 0.08764662968008165,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "harm_only",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9462962962962963,
+    "route_ci95_halfwidth": 0.08872650568271248,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "hoeffding",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "hoeffding",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "hoeffding",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "hoeffding",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "mixture_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.938888888888889,
+    "route_ci95_halfwidth": 0.06324305055994604,
+    "excess_error_mean": 0.007407407407407408,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "mixture_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9555555555555556,
+    "route_ci95_halfwidth": 0.09660535545695724,
+    "excess_error_mean": 0.011111111111111112,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "mixture_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9574074074074074,
+    "route_ci95_halfwidth": 0.08764662968008165,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "mixture_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9462962962962963,
+    "route_ci95_halfwidth": 0.08872650568271248,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "naive",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.9555555555555556,
+    "route_ci95_halfwidth": 0.09660535545695724,
+    "excess_error_mean": 0.011111111111111112,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "naive",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9555555555555556,
+    "route_ci95_halfwidth": 0.09660535545695724,
+    "excess_error_mean": 0.011111111111111112,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "naive",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9574074074074074,
+    "route_ci95_halfwidth": 0.08764662968008165,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "naive",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9462962962962963,
+    "route_ci95_halfwidth": 0.08872650568271248,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "predictable_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.9351851851851852,
+    "route_ci95_halfwidth": 0.07847447204780054,
+    "excess_error_mean": 0.007407407407407408,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "predictable_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9444444444444445,
+    "route_ci95_halfwidth": 0.07171087882915776,
+    "excess_error_mean": 0.007407407407407408,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "predictable_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9500000000000001,
+    "route_ci95_halfwidth": 0.07302678453031593,
+    "excess_error_mean": 0.014814814814814814,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "predictable_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9314814814814815,
+    "route_ci95_halfwidth": 0.0574571668060251,
+    "excess_error_mean": 0.012962962962962963,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "split_cp",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.9555555555555556,
+    "route_ci95_halfwidth": 0.09660535545695724,
+    "excess_error_mean": 0.011111111111111112,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "split_cp",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9555555555555556,
+    "route_ci95_halfwidth": 0.09660535545695724,
+    "excess_error_mean": 0.011111111111111112,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "split_cp",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9574074074074074,
+    "route_ci95_halfwidth": 0.08764662968008165,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "split_cp",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9462962962962963,
+    "route_ci95_halfwidth": 0.08872650568271248,
+    "excess_error_mean": 0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "ternary_universal",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.9259259259259259,
+    "route_ci95_halfwidth": 0.10719680042808283,
+    "excess_error_mean": 0.007407407407407408,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "ternary_universal",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.9444444444444445,
+    "route_ci95_halfwidth": 0.07171087882915776,
+    "excess_error_mean": 0.007407407407407408,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "ternary_universal",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.9500000000000001,
+    "route_ci95_halfwidth": 0.07302678453031593,
+    "excess_error_mean": 0.014814814814814814,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "digits",
+    "method": "ternary_universal",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.9314814814814815,
+    "route_ci95_halfwidth": 0.0574571668060251,
+    "excess_error_mean": 0.012962962962962963,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "empirical_bernstein",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.7555555555555555,
+    "route_ci95_halfwidth": 0.06534265128234792,
+    "excess_error_mean": 0.02027777777777778,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "empirical_bernstein",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.8072222222222223,
+    "route_ci95_halfwidth": 0.061838362399572286,
+    "excess_error_mean": 0.026111111111111113,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.8008333333333333,
+    "route_ci95_halfwidth": 0.05967534435297982,
+    "excess_error_mean": 0.024444444444444446,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.7972222222222222,
+    "route_ci95_halfwidth": 0.03918663995382264,
+    "excess_error_mean": 0.022777777777777775,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "harm_only",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.8475,
+    "route_ci95_halfwidth": 0.048504339395263864,
+    "excess_error_mean": 0.03138888888888889,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "harm_only",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.8475,
+    "route_ci95_halfwidth": 0.048504339395263864,
+    "excess_error_mean": 0.03138888888888889,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "harm_only",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.8452777777777777,
+    "route_ci95_halfwidth": 0.06103621413989025,
+    "excess_error_mean": 0.034166666666666665,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "harm_only",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.8447222222222223,
+    "route_ci95_halfwidth": 0.04343953856344035,
+    "excess_error_mean": 0.03333333333333333,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "hoeffding",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "hoeffding",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.05666666666666667,
+    "route_ci95_halfwidth": 0.2438169880191362,
+    "excess_error_mean": -0.0005555555555555556,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "hoeffding",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.057499999999999996,
+    "route_ci95_halfwidth": 0.247402531960594,
+    "excess_error_mean": -0.0005555555555555556,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "hoeffding",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.057499999999999996,
+    "route_ci95_halfwidth": 0.247402531960594,
+    "excess_error_mean": -0.0002777777777777778,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "mixture_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.8072222222222223,
+    "route_ci95_halfwidth": 0.061838362399572286,
+    "excess_error_mean": 0.026111111111111113,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "mixture_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.8475,
+    "route_ci95_halfwidth": 0.048504339395263864,
+    "excess_error_mean": 0.03138888888888889,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "mixture_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.8452777777777777,
+    "route_ci95_halfwidth": 0.06103621413989025,
+    "excess_error_mean": 0.034166666666666665,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "mixture_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.8447222222222223,
+    "route_ci95_halfwidth": 0.04343953856344035,
+    "excess_error_mean": 0.03333333333333333,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "naive",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.8972222222222221,
+    "route_ci95_halfwidth": 0.013308975852406863,
+    "excess_error_mean": 0.04,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "naive",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.8972222222222221,
+    "route_ci95_halfwidth": 0.013308975852406863,
+    "excess_error_mean": 0.04,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "naive",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.8983333333333333,
+    "route_ci95_halfwidth": 0.005477008839773816,
+    "excess_error_mean": 0.04,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "naive",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.8905555555555557,
+    "route_ci95_halfwidth": 0.008618575020903706,
+    "excess_error_mean": 0.042777777777777776,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "predictable_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.6233333333333333,
+    "route_ci95_halfwidth": 0.11396917120346756,
+    "excess_error_mean": 0.008333333333333333,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "predictable_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.6233333333333333,
+    "route_ci95_halfwidth": 0.11396917120346756,
+    "excess_error_mean": 0.008333333333333333,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "predictable_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.6191666666666666,
+    "route_ci95_halfwidth": 0.10143562322980504,
+    "excess_error_mean": 0.008055555555555555,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "predictable_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.6183333333333333,
+    "route_ci95_halfwidth": 0.10662598271497192,
+    "excess_error_mean": 0.008055555555555555,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "split_cp",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.8475,
+    "route_ci95_halfwidth": 0.048504339395263864,
+    "excess_error_mean": 0.03138888888888889,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "split_cp",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.8475,
+    "route_ci95_halfwidth": 0.048504339395263864,
+    "excess_error_mean": 0.03138888888888889,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "split_cp",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.8452777777777777,
+    "route_ci95_halfwidth": 0.06103621413989025,
+    "excess_error_mean": 0.034166666666666665,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "split_cp",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.8447222222222223,
+    "route_ci95_halfwidth": 0.04343953856344035,
+    "excess_error_mean": 0.03333333333333333,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "ternary_universal",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.8072222222222223,
+    "route_ci95_halfwidth": 0.061838362399572286,
+    "excess_error_mean": 0.026111111111111113,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "ternary_universal",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.8072222222222223,
+    "route_ci95_halfwidth": 0.061838362399572286,
+    "excess_error_mean": 0.026111111111111113,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "ternary_universal",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.8008333333333333,
+    "route_ci95_halfwidth": 0.05967534435297982,
+    "excess_error_mean": 0.024444444444444446,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "synthetic",
+    "method": "ternary_universal",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.7972222222222222,
+    "route_ci95_halfwidth": 0.03918663995382264,
+    "excess_error_mean": 0.022777777777777775,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "empirical_bernstein",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "empirical_bernstein",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "empirical_bernstein",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "harm_only",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "harm_only",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "harm_only",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "harm_only",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "hoeffding",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "hoeffding",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "hoeffding",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "hoeffding",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "mixture_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "mixture_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "mixture_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "mixture_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "naive",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "naive",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "naive",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "naive",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 1.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": -0.018518518518518517,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "predictable_betting",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "predictable_betting",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "predictable_betting",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "predictable_betting",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "split_cp",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "split_cp",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "split_cp",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "split_cp",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "ternary_universal",
+    "correction": "bonferroni",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "ternary_universal",
+    "correction": "fixed",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "ternary_universal",
+    "correction": "shift_0.1",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  },
+  {
+    "dataset": "wine",
+    "method": "ternary_universal",
+    "correction": "shift_0.3",
+    "n": 3,
+    "route_mean": 0.0,
+    "route_ci95_halfwidth": 0.0,
+    "excess_error_mean": 0.0,
+    "empirical_excess_above_epsilon_count": 0
+  }
+]

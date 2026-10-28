@@ -1,0 +1,32 @@
+{
+  "oracle_pairs_identical": 900,
+  "correctness_tests_passed": 4,
+  "policy_trajectories": 6300,
+  "performance_comparisons": [
+    {
+      "label_cost": 0.2,
+      "best_tested_nonoracle": "smoke_joint",
+      "learned_gain": 0.00666666666666671,
+      "seed_gains": [
+        0.020000000000000018,
+        -0.020000000000000018,
+        0.020000000000000018
+      ],
+      "positive_seed_fraction": 0.6666666666666666
+    },
+    {
+      "label_cost": 5.0,
+      "best_tested_nonoracle": "all_reference",
+      "learned_gain": -0.00666666666666671,
+      "seed_gains": [
+        0.040000000000000036,
+        -0.040000000000000036,
+        -0.019999999999999907
+      ],
+      "positive_seed_fraction": 0.3333333333333333
+    }
+  ],
+  "performance_gate_passed": false,
+  "novelty_achieved": false,
+  "complete_paper_created": false
+}

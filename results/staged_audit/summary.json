@@ -1,0 +1,632 @@
+{
+  "seconds_excluding_imports": 32.46165180008393,
+  "tests_passed": 4,
+  "optimization": [
+    {
+      "label_cost": 0.2,
+      "nested_q": [
+        0.41292517006802454,
+        1.0
+      ],
+      "nested_l": [
+        1.0,
+        1.0
+      ],
+      "collapsed_q": [
+        0.41292517006802454,
+        1.0
+      ],
+      "nested_second_moment": 0.21780889621087357,
+      "collapsed_second_moment": 0.21780889621087357
+    },
+    {
+      "label_cost": 5.0,
+      "nested_q": [
+        0.3762808340863868,
+        0.7789753327308904
+      ],
+      "nested_l": [
+        1.0,
+        1.0
+      ],
+      "collapsed_q": [
+        0.3762808340863868,
+        0.7789753327308904
+      ],
+      "nested_second_moment": 0.26697316108288477,
+      "collapsed_second_moment": 0.26697316108288477
+    }
+  ],
+  "summary": [
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.02,
+      "method": "all_reference",
+      "n": 150,
+      "certification_rate": 0.94,
+      "rate_ci95": [
+        0.8891584799863745,
+        0.972200022205544
+      ],
+      "mean_total_cost": 1751.5413333333306,
+      "mean_reference_calls": 1691.5866666666666,
+      "mean_labels_excluding_scout": 299.7733333333333
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.02,
+      "method": "learned_allocation",
+      "n": 150,
+      "certification_rate": 0.9733333333333334,
+      "rate_ci95": [
+        0.9331321233225106,
+        0.9926874536019917
+      ],
+      "mean_total_cost": 1732.146666666669,
+      "mean_reference_calls": 1668.5066666666667,
+      "mean_labels_excluding_scout": 318.2
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.02,
+      "method": "oracle_collapsed",
+      "n": 150,
+      "certification_rate": 0.9933333333333333,
+      "rate_ci95": [
+        0.9634168322594198,
+        0.99983122885689
+      ],
+      "mean_total_cost": 1292.9800000000027,
+      "mean_reference_calls": 1226.16,
+      "mean_labels_excluding_scout": 334.1
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.02,
+      "method": "oracle_joint",
+      "n": 150,
+      "certification_rate": 0.9933333333333333,
+      "rate_ci95": [
+        0.9634168322594198,
+        0.99983122885689
+      ],
+      "mean_total_cost": 1292.9800000000027,
+      "mean_reference_calls": 1226.16,
+      "mean_labels_excluding_scout": 334.1
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.02,
+      "method": "smoke_collapsed",
+      "n": 150,
+      "certification_rate": 0.9466666666666667,
+      "rate_ci95": [
+        0.8976181039766762,
+        0.97669618980353
+      ],
+      "mean_total_cost": 1591.5319999999965,
+      "mean_reference_calls": 1477.5066666666667,
+      "mean_labels_excluding_scout": 570.1266666666667
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.02,
+      "method": "smoke_joint",
+      "n": 150,
+      "certification_rate": 0.9666666666666667,
+      "rate_ci95": [
+        0.9239276774626531,
+        0.9890898135310887
+      ],
+      "mean_total_cost": 1841.5226666666601,
+      "mean_reference_calls": 1734.08,
+      "mean_labels_excluding_scout": 537.2133333333334
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.02,
+      "method": "uniform_reference",
+      "n": 150,
+      "certification_rate": 0.9533333333333334,
+      "rate_ci95": [
+        0.9062141350122035,
+        0.9810344303654225
+      ],
+      "mean_total_cost": 1686.054666666664,
+      "mean_reference_calls": 1628.0333333333333,
+      "mean_labels_excluding_scout": 290.1066666666667
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.05,
+      "method": "all_reference",
+      "n": 150,
+      "certification_rate": 0.02,
+      "rate_ci95": [
+        0.004143625281220548,
+        0.05733422228820578
+      ],
+      "mean_total_cost": 3934.5266666666184,
+      "mean_reference_calls": 3799.133333333333,
+      "mean_labels_excluding_scout": 676.9666666666667
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.05,
+      "method": "learned_allocation",
+      "n": 150,
+      "certification_rate": 0.013333333333333334,
+      "rate_ci95": [
+        0.0016188270298397504,
+        0.04733301949633556
+      ],
+      "mean_total_cost": 3975.731999999949,
+      "mean_reference_calls": 3794.693333333333,
+      "mean_labels_excluding_scout": 905.1933333333334
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.05,
+      "method": "oracle_collapsed",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3973.7346666665917,
+      "mean_reference_calls": 3767.16,
+      "mean_labels_excluding_scout": 1032.8733333333332
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.05,
+      "method": "oracle_joint",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3973.7346666665917,
+      "mean_reference_calls": 3767.16,
+      "mean_labels_excluding_scout": 1032.8733333333332
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.05,
+      "method": "smoke_collapsed",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3833.7706666665727,
+      "mean_reference_calls": 3557.713333333333,
+      "mean_labels_excluding_scout": 1380.2866666666666
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.05,
+      "method": "smoke_joint",
+      "n": 150,
+      "certification_rate": 0.013333333333333334,
+      "rate_ci95": [
+        0.0016188270298397504,
+        0.04733301949633556
+      ],
+      "mean_total_cost": 3959.2079999999173,
+      "mean_reference_calls": 3726.9933333333333,
+      "mean_labels_excluding_scout": 1161.0733333333333
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.05,
+      "method": "uniform_reference",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3977.638666666617,
+      "mean_reference_calls": 3841.0666666666666,
+      "mean_labels_excluding_scout": 682.86
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.08,
+      "method": "all_reference",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3998.3813333332832,
+      "mean_reference_calls": 3861.18,
+      "mean_labels_excluding_scout": 686.0066666666667
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.08,
+      "method": "learned_allocation",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3998.3493333332813,
+      "mean_reference_calls": 3816.5333333333333,
+      "mean_labels_excluding_scout": 909.08
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.08,
+      "method": "oracle_collapsed",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3998.370666666592,
+      "mean_reference_calls": 3791.0,
+      "mean_labels_excluding_scout": 1036.8533333333332
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.08,
+      "method": "oracle_joint",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3998.370666666592,
+      "mean_reference_calls": 3791.0,
+      "mean_labels_excluding_scout": 1036.8533333333332
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.08,
+      "method": "smoke_collapsed",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3845.482666666573,
+      "mean_reference_calls": 3569.346666666667,
+      "mean_labels_excluding_scout": 1380.68
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.08,
+      "method": "smoke_joint",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3998.3146666665825,
+      "mean_reference_calls": 3764.4133333333334,
+      "mean_labels_excluding_scout": 1169.5066666666667
+    },
+    {
+      "label_cost": 0.2,
+      "true_excess": 0.08,
+      "method": "uniform_reference",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3972.0493333332847,
+      "mean_reference_calls": 3835.6266666666666,
+      "mean_labels_excluding_scout": 682.1133333333333
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.02,
+      "method": "all_reference",
+      "n": 150,
+      "certification_rate": 0.7133333333333334,
+      "rate_ci95": [
+        0.633891135674716,
+        0.7841387291502816
+      ],
+      "mean_total_cost": 2601.133333333333,
+      "mean_reference_calls": 1378.0333333333333,
+      "mean_labels_excluding_scout": 244.62
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.02,
+      "method": "learned_allocation",
+      "n": 150,
+      "certification_rate": 0.7066666666666667,
+      "rate_ci95": [
+        0.6268757963047338,
+        0.7780936839776613
+      ],
+      "mean_total_cost": 2793.92,
+      "mean_reference_calls": 1507.12,
+      "mean_labels_excluding_scout": 257.36
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.02,
+      "method": "oracle_collapsed",
+      "n": 150,
+      "certification_rate": 0.7533333333333333,
+      "rate_ci95": [
+        0.6763899799110922,
+        0.8199935147291577
+      ],
+      "mean_total_cost": 2418.213333333333,
+      "mean_reference_calls": 1060.3133333333333,
+      "mean_labels_excluding_scout": 271.58
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.02,
+      "method": "oracle_joint",
+      "n": 150,
+      "certification_rate": 0.7533333333333333,
+      "rate_ci95": [
+        0.6763899799110922,
+        0.8199935147291577
+      ],
+      "mean_total_cost": 2418.213333333333,
+      "mean_reference_calls": 1060.3133333333333,
+      "mean_labels_excluding_scout": 271.58
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.02,
+      "method": "smoke_collapsed",
+      "n": 150,
+      "certification_rate": 0.5666666666666667,
+      "rate_ci95": [
+        0.48338353225315756,
+        0.6472635343025096
+      ],
+      "mean_total_cost": 2982.9266666666667,
+      "mean_reference_calls": 1016.5266666666666,
+      "mean_labels_excluding_scout": 393.28
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.02,
+      "method": "smoke_joint",
+      "n": 150,
+      "certification_rate": 0.48,
+      "rate_ci95": [
+        0.3978231656018461,
+        0.5629823888137149
+      ],
+      "mean_total_cost": 3213.62,
+      "mean_reference_calls": 1258.9866666666667,
+      "mean_labels_excluding_scout": 390.9266666666667
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.02,
+      "method": "uniform_reference",
+      "n": 150,
+      "certification_rate": 0.7066666666666667,
+      "rate_ci95": [
+        0.6268757963047338,
+        0.7780936839776613
+      ],
+      "mean_total_cost": 2643.7,
+      "mean_reference_calls": 1401.2333333333333,
+      "mean_labels_excluding_scout": 248.49333333333334
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.05,
+      "method": "all_reference",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3966.86,
+      "mean_reference_calls": 2098.26,
+      "mean_labels_excluding_scout": 373.72
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.05,
+      "method": "learned_allocation",
+      "n": 150,
+      "certification_rate": 0.013333333333333334,
+      "rate_ci95": [
+        0.0016188270298397504,
+        0.04733301949633556
+      ],
+      "mean_total_cost": 3951.4,
+      "mean_reference_calls": 2016.6333333333334,
+      "mean_labels_excluding_scout": 386.9533333333333
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.05,
+      "method": "oracle_collapsed",
+      "n": 150,
+      "certification_rate": 0.02666666666666667,
+      "rate_ci95": [
+        0.007312546398008252,
+        0.06686787667748939
+      ],
+      "mean_total_cost": 3904.3,
+      "mean_reference_calls": 1711.5,
+      "mean_labels_excluding_scout": 438.56
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.05,
+      "method": "oracle_joint",
+      "n": 150,
+      "certification_rate": 0.02666666666666667,
+      "rate_ci95": [
+        0.007312546398008252,
+        0.06686787667748939
+      ],
+      "mean_total_cost": 3904.3,
+      "mean_reference_calls": 1711.5,
+      "mean_labels_excluding_scout": 438.56
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.05,
+      "method": "smoke_collapsed",
+      "n": 150,
+      "certification_rate": 0.013333333333333334,
+      "rate_ci95": [
+        0.0016188270298397504,
+        0.04733301949633556
+      ],
+      "mean_total_cost": 3975.82,
+      "mean_reference_calls": 1353.6533333333334,
+      "mean_labels_excluding_scout": 524.4333333333333
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.05,
+      "method": "smoke_joint",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3977.2933333333335,
+      "mean_reference_calls": 1557.16,
+      "mean_labels_excluding_scout": 484.02666666666664
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.05,
+      "method": "uniform_reference",
+      "n": 150,
+      "certification_rate": 0.02,
+      "rate_ci95": [
+        0.004143625281220548,
+        0.05733422228820578
+      ],
+      "mean_total_cost": 3917.66,
+      "mean_reference_calls": 2069.8933333333334,
+      "mean_labels_excluding_scout": 369.55333333333334
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.08,
+      "method": "all_reference",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3992.52,
+      "mean_reference_calls": 2112.32,
+      "mean_labels_excluding_scout": 376.04
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.08,
+      "method": "learned_allocation",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3992.36,
+      "mean_reference_calls": 2033.6266666666668,
+      "mean_labels_excluding_scout": 391.74666666666667
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.08,
+      "method": "oracle_collapsed",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3992.4866666666667,
+      "mean_reference_calls": 1751.0866666666666,
+      "mean_labels_excluding_scout": 448.28
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.08,
+      "method": "oracle_joint",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3992.4866666666667,
+      "mean_reference_calls": 1751.0866666666666,
+      "mean_labels_excluding_scout": 448.28
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.08,
+      "method": "smoke_collapsed",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3991.76,
+      "mean_reference_calls": 1357.2266666666667,
+      "mean_labels_excluding_scout": 526.9066666666666
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.08,
+      "method": "smoke_joint",
+      "n": 150,
+      "certification_rate": 0.0,
+      "rate_ci95": [
+        0,
+        0.02429259716610854
+      ],
+      "mean_total_cost": 3992.2733333333335,
+      "mean_reference_calls": 1559.8066666666666,
+      "mean_labels_excluding_scout": 486.49333333333334
+    },
+    {
+      "label_cost": 5.0,
+      "true_excess": 0.08,
+      "method": "uniform_reference",
+      "n": 150,
+      "certification_rate": 0.006666666666666667,
+      "rate_ci95": [
+        0.00016877114310994754,
+        0.03658316774058025
+      ],
+      "mean_total_cost": 3966.6133333333332,
+      "mean_reference_calls": 2103.5466666666666,
+      "mean_labels_excluding_scout": 372.61333333333334
+    }
+  ],
+  "novelty_gate_passed": false,
+  "decision": "Do not write a complete research paper. Context-only two-stage acquisition collapses to one-stage; broader joint allocation has close prior work. No new technical result established."
+}
